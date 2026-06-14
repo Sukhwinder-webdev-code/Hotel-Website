@@ -2,7 +2,7 @@
 A modern Hotel Website built using HTML, CSS, and JavaScript. This project showcases a platform where users can explore rooms, view amenities, and enjoy a food experience.
 The goal of this project was to improve my frontend development skills, focusing on responsive design, layout structuring, and user experience.
 
-live demo: hotel-website-d7cgoi0vt-sukhwinder-s-projects.vercel.app
+live demo: hotel-website-gamma-jet.vercel.app
 
 ## Table of Contents
 - [About](#about)
