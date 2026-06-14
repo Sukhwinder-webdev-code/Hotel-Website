@@ -58,8 +58,9 @@ The main goal of this project was to improve my frontend development skills, esp
 
 ## deployment
 The project is hosted on Vercel for fast and reliable performance.
-Live Demo: hotel-website-7jgeyaucm-sukhwinder-s-projects.vercel.app
 Any updates pushed to the GitHub repository are automatically reflected in the live site through continuous deployment.
+- Live Demo: https://hotel-website-7jgeyaucm-sukhwinder-s-projects.vercel.app
+
 
 
 
