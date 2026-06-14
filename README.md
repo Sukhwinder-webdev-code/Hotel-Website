@@ -14,6 +14,10 @@ live demo: hotel-website-d7cgoi0vt-sukhwinder-s-projects.vercel.app
 
 
 
+
+
+
+
 ## about
 This is a responsive Hotel Website built using HTML, CSS, and JavaScript. The website displays hotel meal options along with their prices in a clean and user-friendly layout.
 Users can browse different food items, view pricing details, and explore a modern hotel-style menu interface.
