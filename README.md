@@ -41,8 +41,13 @@ The main goal of this project was to improve my frontend development skills, esp
 
 
 ## screenshots
+### Home Page
 ![home page](images/homepage.png)
+
+### Menu Page
 ![menu page](images/menu.png)
+
+### Order page
 ![item order](images/itemorder.png)
 
 
